@@ -1,2 +1,0 @@
-# Stonks
- Frontend Assignment
